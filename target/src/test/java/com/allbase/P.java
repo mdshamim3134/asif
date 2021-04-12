@@ -8,6 +8,7 @@ public class P {
 		int a=33;
 		for(int i=1;i<=10;i++) {
 			System.out.println( i+"x"+num+"="+" "+num*i);
+			System.out.println(9);
 			
 		}
 
